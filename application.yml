@@ -1,4 +1,7 @@
 # eureka client configurations --
+spring:
+  application:
+    name: ABC
 eureka:
   instance:
     prefer-ip-address: true
